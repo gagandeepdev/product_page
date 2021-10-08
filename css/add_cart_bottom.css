@@ -1,6 +1,11 @@
 .container {
     max-width: 1920px !important;
-    margin: 0% !important;
+    margin: 0% auto !important;
+    width: 100% !important;
+}
+
+.bottom_margin {
+    margin-bottom: -2% !important;
 }
 
 .col {
@@ -68,8 +73,8 @@
 }
 
 #add_cart {
-    padding-left: 0% !important;
-    padding-right: 0% !important;
+    padding-left: -1% !important;
+    padding-right: -1% !important;
 }
 
 /* Card Description */
